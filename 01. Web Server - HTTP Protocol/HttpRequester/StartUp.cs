@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace HttpRequester
 {
-    public class Program
+    public class StartUp
     {
         public static async Task Main(string[] args)
         {
